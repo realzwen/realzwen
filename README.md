@@ -1,5 +1,5 @@
-# 💫 About Me:
-cay iciyorum
+# 😩 About Me:
+sex yapıom
 
 
 ## 🌐 Socials:
