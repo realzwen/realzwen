@@ -1,6 +1,9 @@
 # 😩 
 
-## sex yapıyorum
+## + Full-stack developer & advanced Discord bot creator.
++ Visual novel developer and anime-style artist.
++ OSINT enthusiast — OSINTCAT admini.
++ Building powerful systems, not just writing code.
 
 
 
