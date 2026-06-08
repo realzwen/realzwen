@@ -1,7 +1,7 @@
 # 🎶​
 
-## + Full-stack developer & advanced Discord bot creator.
-+ Visual novel developer and anime-style artist.
+
+## + Visual novel developer and anime-style artist.
 + Building powerful systems, not just writing code.
 
 
